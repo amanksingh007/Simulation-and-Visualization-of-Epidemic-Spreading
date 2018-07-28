@@ -1,0 +1,49 @@
+
+
+      #map , #piechart {
+        height: 600px;
+        width: 600px;
+        float: right; 
+              }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+
+      #heading
+      {
+        margin-bottom: 80px;
+      }
+
+
+      #pie
+      {
+        margin-left: 10%;
+      }
+
+
+     #background
+     {
+       background-image: url("dark-vintage.jpg");
+     }
+
+
+body
+{
+  background-image: url("background.jpg");
+
+}
+
+#jumb
+{
+  margin-top: 20%;
+  text-align: center;
+}
+
+
+
+
+
